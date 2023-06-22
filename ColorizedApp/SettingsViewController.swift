@@ -102,6 +102,7 @@ extension SettingsViewController: UITextFieldDelegate {
             blueSlider.setValue(value, animated: true)
         }
         
+        
         setLabelValue()
         changeColor()
     }
